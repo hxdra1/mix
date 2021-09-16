@@ -1,6 +1,8 @@
 import RPi.GPIO as GPIO
 import time
 
+#test
+
 led_pin = 27
 taster_pin = 17
 
